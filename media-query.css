@@ -1,0 +1,37 @@
+@media (max-width: 1450px) {
+  .line {
+    left: 52%;
+  }
+ 
+}
+
+@media (max-width: 769px) {
+  .line {
+    left: 54%;
+  }
+
+}
+
+@media (max-width: 600px) {
+  .line {
+    left: 58%;
+  }
+
+}
+
+@media (max-width: 400px) {
+  .line {
+    left: 60%;
+  }
+
+ 
+}
+
+@media (max-width: 350px) {
+  .line {
+    left: 70%;
+  }
+  
+}
+
+
