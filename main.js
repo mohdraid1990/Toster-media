@@ -37,7 +37,7 @@ sliderIndicators.forEach((indicator, index) => {
 
 window.addEventListener('DOMContentLoaded', () => {
   const indicatorWidth = sliderIndicators[0].offsetWidth;
-  sliderLine.style.left = `${currentIndex * indicatorWidth}px`;
+
 });
 
 //  =================================== //
